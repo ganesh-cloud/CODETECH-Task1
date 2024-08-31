@@ -26,3 +26,13 @@ Technologies used
 2.Functions:To encapsulate arithemetic operations
 
 
+
+
+
+
+
+
+
+<img width="960" alt="task 1 screenshot" src="https://github.com/user-attachments/assets/b99a5e14-1fea-48a5-bd2a-ac47b0a8ace2">
+
+
